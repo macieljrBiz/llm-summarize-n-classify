@@ -30,6 +30,9 @@ Run the script:
 python summarize_and_classify.py --file ./peticoes/civil/01.pdf 
 ```
 
+## IMPORTANT notes about the sample petitions on the dir [peticoes](./peticoes/)
+All the files where available in the internet. If it should not be here, please request to remove it.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
