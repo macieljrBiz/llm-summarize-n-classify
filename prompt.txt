@@ -14,4 +14,4 @@ Onde {tipo} pode ser:
 - tributário
 - indefinido
 
-Formato de saída: JSON
+Sua resposta deve ser **apenas** um objeto JSON sem nenhum markdown.
